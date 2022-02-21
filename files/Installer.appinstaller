@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<AppInstaller Uri="file://192.168.1.60/Volume_2/Source/FilmBrowserWebsite/D0gsbody.github.io/files/Installer.appinstaller" Version="1.0.2.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
-  <MainBundle Name="65a0cc17-0fff-496a-867f-359bab1e2d52" Version="1.0.2.0" Publisher="CN=acme" Uri="file://192.168.1.60/Volume_2/Source/FilmBrowserWebsite/D0gsbody.github.io/files/Installer_1.0.2.0_Debug_Test/Installer_1.0.2.0_x64_Debug.appxbundle" />
-  <UpdateSettings>
-    <OnLaunch HoursBetweenUpdateChecks="0" />
-  </UpdateSettings>
-</AppInstaller>
