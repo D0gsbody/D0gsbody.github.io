@@ -69,3 +69,4 @@ Latest build is 2.0.1.1 at 15/01/2026 19:09:53 |
 Latest build is 2.0.1.1 at 17/01/2026 17:11:57 |  
 Latest build is 2.0.1.1 at 18/01/2026 16:40:43 | Help / about screen tweaked 
 Latest build is 2.0.1.1 at 20/01/2026 16:41:27 | versioning fix 
+Latest build is 2.0.2.1 at 25/01/2026 15:43:46 | Mission aborted 
