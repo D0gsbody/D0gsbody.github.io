@@ -71,3 +71,4 @@ Latest build is 2.0.1.1 at 18/01/2026 16:40:43 | Help / about screen tweaked
 Latest build is 2.0.1.1 at 20/01/2026 16:41:27 | versioning fix 
 Latest build is 2.0.2.1 at 25/01/2026 15:43:46 | Mission aborted 
 Latest build is 2.0.3.1 at 28/01/2026 19:55:47 |  
+Latest build is 2.0.4.1 at 29/01/2026 18:19:54 | Query db fixed 
