@@ -74,3 +74,4 @@ Latest build is 2.0.3.1 at 28/01/2026 19:55:47 |
 Latest build is 2.0.4.1 at 29/01/2026 18:19:54 | Query db fixed 
 Latest build is 2.0.4.1 at 29/01/2026 18:24:01 | Query db fixed 
 Latest build is 2.0.5.1 at 29/01/2026 20:04:10 |  
+Latest build is 2.0.6.1 at 31/01/2026 16:06:57 |  
